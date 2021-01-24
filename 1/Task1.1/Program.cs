@@ -1,12 +1,15 @@
 ﻿using System;
 
-class Program
+namespace Ivanov
 {
-    #region Сернуть
-    static void Main()
+    class Program
     {
-        Console.WriteLine("Hello, Word!");
-        Console.ReadKey(); 
+        #region Сернуть
+        static void Main()
+        {
+            Console.WriteLine("Hello, Word!");
+            Console.ReadKey();
+        }
+        #endregion
     }
-    #endregion
 }
