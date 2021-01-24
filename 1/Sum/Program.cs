@@ -4,7 +4,14 @@ namespace Sum
 {
     class Program
     {
-       
+
+        static void Print(int x, int y, string message)
+        {
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.BackgroundColor = ConsoleColor.Yellow;
+            Console.SetCursorPosition(x, y);
+            Console.Write(message);
+        }
 
         static void Main(string[] args)
         {
@@ -20,6 +27,7 @@ namespace Sum
             Console.WriteLine(a+"+"+b+"="+sum.ToString());
             Console.WriteLine("{0}+{1}={2}",a,b,sum);
             Console.WriteLine($"{a}+{b}={sum}");
+            Print(10, 10, "Hello\n");
             Library.Pause("Press any key");
             
 
