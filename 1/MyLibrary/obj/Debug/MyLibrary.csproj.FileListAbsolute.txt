@@ -1,0 +1,6 @@
+E:\C#\Task\github\Tasks\c-sharp-tasks\1\MyLibrary\bin\Debug\MyLibrary.pdb
+E:\C#\Task\github\Tasks\c-sharp-tasks\1\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+E:\C#\Task\github\Tasks\c-sharp-tasks\1\MyLibrary\obj\Debug\MyLibrary.pdb
+E:\C#\Task\github\Tasks\c-sharp-tasks\1\MyLibrary\bin\Debug\MyLibrary.dll.config
+E:\C#\Task\github\Tasks\c-sharp-tasks\1\MyLibrary\bin\Debug\MyLibrary.dll
+E:\C#\Task\github\Tasks\c-sharp-tasks\1\MyLibrary\obj\Debug\MyLibrary.dll

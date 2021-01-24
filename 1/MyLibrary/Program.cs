@@ -1,13 +1,18 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace MyLibrary
 {
-    class Library
+    public class Library
     {
-        
+        public static void Pause()
+        {
+            Console.ReadKey();
+        }
+        public static void Pause(string msg)
+        {
+            Console.WriteLine(msg);
+            Console.ReadKey();
+        }
     }
 }

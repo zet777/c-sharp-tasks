@@ -4,10 +4,10 @@ E:\C#\Task\github\Tasks\c-sharp-tasks\1\Task1\bin\Debug\netcoreapp3.1\Task1.runt
 E:\C#\Task\github\Tasks\c-sharp-tasks\1\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.dev.json
 E:\C#\Task\github\Tasks\c-sharp-tasks\1\Task1\bin\Debug\netcoreapp3.1\Task1.dll
 E:\C#\Task\github\Tasks\c-sharp-tasks\1\Task1\bin\Debug\netcoreapp3.1\Task1.pdb
-E:\C#\Task\github\Tasks\c-sharp-tasks\1\Task1\obj\Debug\netcoreapp3.1\Task1.csprojAssemblyReference.cache
 E:\C#\Task\github\Tasks\c-sharp-tasks\1\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfoInputs.cache
 E:\C#\Task\github\Tasks\c-sharp-tasks\1\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfo.cs
 E:\C#\Task\github\Tasks\c-sharp-tasks\1\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.CoreCompileInputs.cache
 E:\C#\Task\github\Tasks\c-sharp-tasks\1\Task1\obj\Debug\netcoreapp3.1\Task1.dll
 E:\C#\Task\github\Tasks\c-sharp-tasks\1\Task1\obj\Debug\netcoreapp3.1\Task1.pdb
 E:\C#\Task\github\Tasks\c-sharp-tasks\1\Task1\obj\Debug\netcoreapp3.1\Task1.genruntimeconfig.cache
+E:\C#\Task\github\Tasks\c-sharp-tasks\1\Task1\obj\Debug\netcoreapp3.1\Task1.csprojAssemblyReference.cache

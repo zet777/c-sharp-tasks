@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DE2ABAAC-7B49-4258-A0EC-1468865E6C54}</ProjectGuid>
-    <OutputType>Library</OutputType>
-    <RootNamespace>MyLibrary</RootNamespace>
-    <AssemblyName>MyLibrary</AssemblyName>
+    <ProjectGuid>{A45D4027-3908-423E-A03F-10A30F637A85}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Sum</RootNamespace>
+    <AssemblyName>Sum</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -32,9 +32,6 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
-  <PropertyGroup>
-    <StartupObject />
-  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -45,6 +42,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MyLibrary\MyLibrary.csproj">
+      <Project>{de2abaac-7b49-4258-a0ec-1468865e6c54}</Project>
+      <Name>MyLibrary</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

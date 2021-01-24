@@ -6,7 +6,11 @@ namespace Task1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            double f = Math.Pow(2d, 10d);
+            int i;
+            System.Int32 a;
+            var v = 10;
         }
+        
     }
 }
