@@ -1,9 +1,12 @@
-﻿
+﻿using System;
+
 class Program
 {
+    #region Сернуть
     static void Main()
     {
-        System.Console.WriteLine("Hello, Word!");
-        System.Console.ReadKey();
+        Console.WriteLine("Hello, Word!");
+        Console.ReadKey(); 
     }
+    #endregion
 }
