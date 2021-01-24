@@ -8,6 +8,8 @@ namespace Ivanov
         static void Main()
         {
             Console.WriteLine("Hello, Word!");
+            Console.WriteLine("{0:D7}", 12345);
+
             Console.ReadKey();
         }
         #endregion

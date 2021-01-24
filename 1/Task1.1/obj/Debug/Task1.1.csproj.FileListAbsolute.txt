@@ -4,3 +4,4 @@ E:\C#\Task\github\Tasks\c-sharp-tasks\1\Task1.1\bin\Debug\Task1.1.pdb
 E:\C#\Task\github\Tasks\c-sharp-tasks\1\Task1.1\obj\Debug\Task1.1.csproj.CoreCompileInputs.cache
 E:\C#\Task\github\Tasks\c-sharp-tasks\1\Task1.1\obj\Debug\Task1.1.exe
 E:\C#\Task\github\Tasks\c-sharp-tasks\1\Task1.1\obj\Debug\Task1.1.pdb
+E:\C#\Task\github\Tasks\c-sharp-tasks\1\Task1.1\obj\Debug\Task1.1.csprojAssemblyReference.cache

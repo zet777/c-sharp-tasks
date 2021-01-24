@@ -1,0 +1,7 @@
+E:\C#\Task\github\Tasks\c-sharp-tasks\1\Sqr\bin\Debug\Sqr.exe.config
+E:\C#\Task\github\Tasks\c-sharp-tasks\1\Sqr\bin\Debug\Sqr.exe
+E:\C#\Task\github\Tasks\c-sharp-tasks\1\Sqr\bin\Debug\Sqr.pdb
+E:\C#\Task\github\Tasks\c-sharp-tasks\1\Sqr\obj\Debug\Sqr.csprojAssemblyReference.cache
+E:\C#\Task\github\Tasks\c-sharp-tasks\1\Sqr\obj\Debug\Sqr.csproj.CoreCompileInputs.cache
+E:\C#\Task\github\Tasks\c-sharp-tasks\1\Sqr\obj\Debug\Sqr.exe
+E:\C#\Task\github\Tasks\c-sharp-tasks\1\Sqr\obj\Debug\Sqr.pdb

@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum", "..\Sum\Sum.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibrary", "..\MyLibrary\MyLibrary.csproj", "{DE2ABAAC-7B49-4258-A0EC-1468865E6C54}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sqr", "..\Sqr\Sqr.csproj", "{6F03900E-D99C-4F25-A80F-2F20DFE6907E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{DE2ABAAC-7B49-4258-A0EC-1468865E6C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE2ABAAC-7B49-4258-A0EC-1468865E6C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE2ABAAC-7B49-4258-A0EC-1468865E6C54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F03900E-D99C-4F25-A80F-2F20DFE6907E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F03900E-D99C-4F25-A80F-2F20DFE6907E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F03900E-D99C-4F25-A80F-2F20DFE6907E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F03900E-D99C-4F25-A80F-2F20DFE6907E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
