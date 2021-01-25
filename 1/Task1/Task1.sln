@@ -13,6 +13,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibrary", "..\MyLibrary\M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sqr", "..\Sqr\Sqr.csproj", "{6F03900E-D99C-4F25-A80F-2F20DFE6907E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kvadratnoeUravnenie", "..\kvadratnoeUravnenie\kvadratnoeUravnenie.csproj", "{BFC7317F-BE0D-4CA4-A4DE-EB0FBFAA0F74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DvePeremennii", "..\DvePeremennii\DvePeremennii.csproj", "{697A9EB8-2391-4C5A-B3A0-FC018B97A3E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChetnostChisla", "..\ChetnostChisla\ChetnostChisla.csproj", "{62636786-863B-408F-935E-ED4C24811DB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peregruzka", "..\Peregruzka\Peregruzka.csproj", "{7D0D2469-5F4E-4F4D-9844-E0773942AA8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlochadTriugolnika", "..\PlochadTriugolnika\PlochadTriugolnika.csproj", "{698B4415-6E58-4096-9474-29D344AB720D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +49,26 @@ Global
 		{6F03900E-D99C-4F25-A80F-2F20DFE6907E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F03900E-D99C-4F25-A80F-2F20DFE6907E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F03900E-D99C-4F25-A80F-2F20DFE6907E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFC7317F-BE0D-4CA4-A4DE-EB0FBFAA0F74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC7317F-BE0D-4CA4-A4DE-EB0FBFAA0F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC7317F-BE0D-4CA4-A4DE-EB0FBFAA0F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC7317F-BE0D-4CA4-A4DE-EB0FBFAA0F74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{697A9EB8-2391-4C5A-B3A0-FC018B97A3E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{697A9EB8-2391-4C5A-B3A0-FC018B97A3E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{697A9EB8-2391-4C5A-B3A0-FC018B97A3E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{697A9EB8-2391-4C5A-B3A0-FC018B97A3E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62636786-863B-408F-935E-ED4C24811DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62636786-863B-408F-935E-ED4C24811DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62636786-863B-408F-935E-ED4C24811DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62636786-863B-408F-935E-ED4C24811DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D0D2469-5F4E-4F4D-9844-E0773942AA8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D0D2469-5F4E-4F4D-9844-E0773942AA8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D0D2469-5F4E-4F4D-9844-E0773942AA8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D0D2469-5F4E-4F4D-9844-E0773942AA8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{698B4415-6E58-4096-9474-29D344AB720D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{698B4415-6E58-4096-9474-29D344AB720D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{698B4415-6E58-4096-9474-29D344AB720D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{698B4415-6E58-4096-9474-29D344AB720D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
