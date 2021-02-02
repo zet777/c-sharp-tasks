@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IF", "..\IF\IF.csproj", "{1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tern", "..\Tern\Tern.csproj", "{377F7E58-FDF7-443E-88EF-F0430A444971}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch", "..\Switch\Switch.csproj", "{F646B077-4767-4ECF-98EC-84856FE7C840}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KolichestvoCifr", "..\KolichestvoCifr\KolichestvoCifr.csproj", "{0067F14B-B9D0-4C75-82C7-9D6B4B18F7F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{377F7E58-FDF7-443E-88EF-F0430A444971}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{377F7E58-FDF7-443E-88EF-F0430A444971}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{377F7E58-FDF7-443E-88EF-F0430A444971}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F646B077-4767-4ECF-98EC-84856FE7C840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F646B077-4767-4ECF-98EC-84856FE7C840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F646B077-4767-4ECF-98EC-84856FE7C840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F646B077-4767-4ECF-98EC-84856FE7C840}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0067F14B-B9D0-4C75-82C7-9D6B4B18F7F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0067F14B-B9D0-4C75-82C7-9D6B4B18F7F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0067F14B-B9D0-4C75-82C7-9D6B4B18F7F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0067F14B-B9D0-4C75-82C7-9D6B4B18F7F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
