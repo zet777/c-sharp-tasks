@@ -19,6 +19,19 @@ namespace KolichestvoCifr
                 num = num / 10;//так как n-целое, деление целочисленное
             }
             Console.WriteLine(count);
+
+
+            int age, cnt = 0;
+            do
+            {
+                Console.WriteLine("Введите возраст:");
+                age = int.Parse(Console.ReadLine());
+                cnt++;
+            }
+            while (age < 1 || age > 99);// Повторять условие истинно(true)
+            Console.WriteLine($"Вы сделали {cnt} попыток ввода");
+            
+
         }
     }
 }
