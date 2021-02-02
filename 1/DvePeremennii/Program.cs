@@ -25,9 +25,10 @@ namespace DvePeremennii
             w = 10;
             x = 2;
             Console.WriteLine("x=2, w =10");
-            x = w; //10
-
-            Console.WriteLine($"x={x}, w = ");
+            x = w + x; //12
+            w = x - w; // 2
+            x = x - w; // 10
+            Console.WriteLine($"x={x}, w = {w}");
             Library.Pause("Press any key");
 
 
