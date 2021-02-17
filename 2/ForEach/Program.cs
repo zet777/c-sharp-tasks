@@ -22,7 +22,7 @@ namespace ForEach
             int[] num = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
             foreach (int el in num)
             {
-                if (el % 2 != 0) continue;
+                if (el % 2 == 0) continue;
                 Console.WriteLine(el);
                 if (el == 5) break;   
             }
